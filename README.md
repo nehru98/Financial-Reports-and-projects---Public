@@ -62,14 +62,10 @@ Financial modelling, portfolio optimization, risk management, statistical analys
 
 ### [Morningstar Sustainability ratings on Mutual Funds performance- Quantiative methods of finance related project](https://github.com/nehru98/Financial-Reports-and-projects---Public/blob/main/Morningstar%20Sustainability%20ratings%20report.pdf) 2024:
 
-**Aim:**
-Assess whether Morningstar Sustainability ratings affect UK equity mutual funds’ gross and net returns.
-**What I did:**
-Cleaned and explored 899‑fund data, winsorized and log‑transformed variables, created sustainability dummies, and ran OLS regressions with Ramsey, White, and joint‑significance tests.
-**Outcome:** 
-Funds with Average, Above Average, and High sustainability ratings show statistically higher gross and net returns versus “Low” funds; effects are economically modest and the models explain limited variance.
-**Skills used:**
-Data cleaning; econometric modelling; hypothesis testing; diagnostic testing; data visualization; academic reporting.
+**Aim:** Assess whether Morningstar Sustainability ratings affect UK equity mutual funds’ gross and net returns.
+**What I did:** Cleaned and explored 899‑fund data, winsorized and log‑transformed variables, created sustainability dummies, and ran OLS regressions with Ramsey, White, and joint‑significance tests.
+**Outcome:**  Funds with Average, Above Average, and High sustainability ratings show statistically higher gross and net returns versus “Low” funds; effects are economically modest and the models explain limited variance.
+**Skills used:** Data cleaning; econometric modelling; hypothesis testing; diagnostic testing; data visualization; academic reporting.
 
 ### [Corporate Finance Reports](https://github.com/nehru98/Financial-Reports-and-projects---Public/blob/main/Corporate%20Finance%20reports%20-%20Nehru.pdf) 2024:
 **Report A — Green Globe**  
