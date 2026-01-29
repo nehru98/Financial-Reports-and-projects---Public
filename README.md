@@ -1,4 +1,4 @@
-# Reports
+# Index of Projects/Reports
 Welcome to my repository, please feel free to have a look at my projects and reports I have made over my academic and extracurricualr journey.
 
 This file provides a short summary of the tasks that was performed over a project and links the file associted with the report respectively.
