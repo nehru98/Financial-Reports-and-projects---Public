@@ -90,9 +90,10 @@ Financial modelling, portfolio optimization, risk management, statistical analys
 **Skills used:** WACC and cost‑of‑capital calculations, scenario analysis, corporate finance theory (trade‑off/pecking order), risk assessment, and strategic capital‑structure modelling.
 
 ### [Finance and Investment Dissertation thesis: Are the Day of the week effects prevalent in Indian Stock Exchanges? A COVID-19 Contextual Analysis]() 2025:
-This was my master’s dissertation in Finance and Investment; I researched it for three months and finished the full thesis in five months
+This was my master’s dissertation in Finance and Investment. I used EBSCO, Refinitiv Eikon, and Bloomberg to gather data, ran regressions in Stata, saved the outputs, and analysed them to produce my findings and conclusions.
 
 This dissertation examines day‑of‑the‑week effects in Indian equity markets (Sensex and Nifty50) from January 2018 to January 2023, with a focus on changes during the COVID‑19 shock. 
+
 **Aim:** test whether weekday return and volatility patterns persist and whether the pandemic altered them. 
 
 **What I did:** collected daily Refinitiv data, ran OLS and autoregressive tests, performed structural‑break analysis around the COVID onset, estimated GARCH/EGARCH/TGARCH models for conditional volatility, measured illiquidity using an Amihud proxy, and used ARIMA regressions to test weak‑form market efficiency. 
