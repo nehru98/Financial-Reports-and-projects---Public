@@ -15,38 +15,26 @@ This project involves the design and development of an Augmented Reality (AR) sy
 
 ### [Easyjet PLC- Financial Reporting and Analysis project](https://github.com/nehru98/Financial-Reports-and-projects---Public/blob/main/EasyJet%20PL%20Performance%20and%20Financial%20Position%20Report%20(1).pdf) 2023:
 
-**Aim:** 
-Assess EasyJet Plc’s performance and financial position for 2019–2023. 
-**What I did:** 
-Conducted financial and technical ratio analysis (margin, liquidity, RASK/CASK), evaluated capacity, load factors, jet‑fuel hedging, trend and competitor comparisons, and tracked share‑price movements. 
-**Outcome:** 
-Identified drivers of recovery, revenue growth, and cost pressures. 
-**Skills used:** 
-financial analysis, data visualization, benchmarking, critical interpretation of financial statements, and professional report writing.
+**Aim:** Assess EasyJet Plc’s performance and financial position for 2019–2023. 
+**What I did:** Conducted financial and technical ratio analysis (margin, liquidity, RASK/CASK), evaluated capacity, load factors, jet‑fuel hedging, trend and competitor comparisons, and tracked share‑price movements. 
+**Outcome:** Identified drivers of recovery, revenue growth, and cost pressures. 
+**Skills used:** financial analysis, data visualization, benchmarking, critical interpretation of financial statements, and professional report writing.
 
 ### [Softcat PLC- Financial Reporting and Analysis group project](https://github.com/nehru98/Financial-Reports-and-projects---Public/blob/main/Softcat%20Plc%20group%20report.pdf) 2023:
 
 ### Summary
 
-**Aim:** 
-Assess Softcat Plc’s industry position, strategy, and financial health to produce an evidence‑based investment recommendation.
-**What I did:** 
-Conducted industry and strategy analysis (Porter’s Five Forces, SWOT), reviewed accounting judgements, performed six‑year ratio and peer comparisons, built three forecast scenarios with the assistance of group members, and ran valuation models (DDM, residual income, multiples) with assitance of group member.
-**Outcome:** 
-Derived a blended fair value and a BUY recommendation under the target scenario, with upside and downside scenario ranges identified.
-**Skills used:** 
-Financial statement analysis; forecasting; valuation modeling; ratio analysis; benchmarking; accounting interpretation; data visualization; professional report writing.
+**Aim:** Assess Softcat Plc’s industry position, strategy, and financial health to produce an evidence‑based investment recommendation.
+**What I did:** Conducted industry and strategy analysis (Porter’s Five Forces, SWOT), reviewed accounting judgements, performed six‑year ratio and peer comparisons, built three forecast scenarios with the assistance of group members, and ran valuation models (DDM, residual income, multiples) with assitance of group member.
+**Outcome:** Derived a blended fair value and a BUY recommendation under the target scenario, with upside and downside scenario ranges identified.
+**Skills used:** Financial statement analysis; forecasting; valuation modeling; ratio analysis; benchmarking; accounting interpretation; data visualization; professional report writing.
 
 ### [Mutual Funds Academic Research Report- Empirical Finance group project](https://github.com/nehru98/Financial-Reports-and-projects---Public/blob/main/Mutual%20funds%20academic%20research%20report.pdf) 2024:
 
-**Aim:** 
-Evaluated whether actively managed mutual funds outperform passive index funds in the US and UK (April 2019–April 2024).
-**What I did:**
-Collected Eikon data (502 active, 37 passive), winsorized returns, calculated Jensen’s Alpha, Beta, Sharpe, Treynor, and ran Welch t‑tests.
-**Outcome:**
-Active funds delivered higher raw returns and volatility but had more negative Jensen’s Alpha; only the return difference was statistically significant, giving mixed evidence on active management’s value.
-**Skills used:**  
-Data collection; statistical testing; performance metrics; econometric analysis; data visualization; academic report writing.
+**Aim:** Evaluated whether actively managed mutual funds outperform passive index funds in the US and UK (April 2019–April 2024).
+**What I did:** Collected Eikon data (502 active, 37 passive), winsorized returns, calculated Jensen’s Alpha, Beta, Sharpe, Treynor, and ran Welch t‑tests.
+**Outcome:** Active funds delivered higher raw returns and volatility but had more negative Jensen’s Alpha; only the return difference was statistically significant, giving mixed evidence on active management’s value.
+**Skills used:** Data collection; statistical testing; performance metrics; econometric analysis; data visualization; academic report writing.
 
 ### [Portfolio Optimization project - Financial Modelling report](https://github.com/nehru98/Financial-Reports-and-projects---Public/blob/main/Financial-modelling-report.pdf) 2024: 
 
@@ -92,6 +80,8 @@ This was my master’s dissertation in Finance and Investment; I researched it f
 This dissertation examines day‑of‑the‑week effects in Indian equity markets (Sensex and Nifty50) from January 2018 to January 2023, with a focus on changes during the COVID‑19 shock. 
 **Aim:** test whether weekday return and volatility patterns persist and whether the pandemic altered them. 
 **What I did:** collected daily Refinitiv data, ran OLS and autoregressive tests, performed structural‑break analysis around the COVID onset, estimated GARCH/EGARCH/TGARCH models for conditional volatility, measured illiquidity using an Amihud proxy, and used ARIMA regressions to test weak‑form market efficiency. 
+
 **Findings:** significant Tuesday return effects (stronger during COVID), conditional heteroskedasticity and leverage effects, and partial explanation of anomalies by volume/illiquidity; only mild return predictability. 
+
 **Skills used:** time‑series econometrics, volatility modelling, structural‑break testing, liquidity analysis, data cleaning, statistical testing, visualization, and academic reporting.
 
