@@ -89,7 +89,7 @@ Financial modelling, portfolio optimization, risk management, statistical analys
 **What I did:** Calculated WACC under three debt scenarios, quantified tax shields and interest costs, and assessed trade‑offs between tax benefits and distress risk using LBO‑informed guidance.  
 **Skills used:** WACC and cost‑of‑capital calculations, scenario analysis, corporate finance theory (trade‑off/pecking order), risk assessment, and strategic capital‑structure modelling.
 
-### [Finance and Investment Dissertation thesis: Are the Day of the week effects prevalent in Indian Stock Exchanges? A COVID-19 Contextual Analysis]() 2025:
+### [Finance and Investment Dissertation thesis: Are the Day of the week effects prevalent in Indian Stock Exchanges? A COVID-19 Contextual Analysis](https://github.com/nehru98/Financial-Reports-and-projects---Public/blob/main/day%20of%20the%20week%20effect%20report.pdf) 2025:
 This was my master’s dissertation in Finance and Investment. I used EBSCO, Refinitiv Eikon, and Bloomberg to gather data, ran regressions in Stata, saved the outputs, and analysed them to produce my findings and conclusions.
 
 This dissertation examines day‑of‑the‑week effects in Indian equity markets (Sensex and Nifty50) from January 2018 to January 2023, with a focus on changes during the COVID‑19 shock. 
