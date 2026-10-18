@@ -102,3 +102,5 @@ This dissertation examines day‑of‑the‑week effects in Indian equity market
 
 **Skills used:** time‑series econometrics, volatility modelling, structural‑break testing, liquidity analysis, data cleaning, statistical testing, visualization, and academic reporting.
 
+Note: The full dissertation report is currently set to private for data privacy reasons. If you would like to request access, please contact me at nehru.haribristol@gmail.com with a brief explanation of your research or professional interest.
+
