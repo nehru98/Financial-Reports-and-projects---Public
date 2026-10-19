@@ -1,7 +1,7 @@
 # Index of Projects/Reports
 Welcome to my repository, please feel free to have a look at my projects and reports I have made over my academic and extracurricular journey.
 
-This file provides a short summary of the tasks that was performed over a project and links the file associted with the report respectively.
+This README file provides a short summary of the tasks that was performed over a project and links the file associted with the report respectively.
 
 ### [Hardware based Image classification Project](https://github.com/nehru98/Financial-Reports-and-projects---Public/blob/main/Hardware%20based%20image%20classification%20using%20FPGA%20Btech%20project-Nehru.pdf) 2020: 
 This was a five-month group project that I led during my Bachelor’s in Electronics and Communication Engineering. Our team implemented a machine learning and neural network–based application on FPGA hardware. The project explored the performance advantages of FPGA systems compared to modern laptop microprocessors through practical benchmarking.
